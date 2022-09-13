@@ -13,4 +13,5 @@
 ![volodin32104 github io_](https://user-images.githubusercontent.com/34587236/189792546-ef0e3242-42dd-4c78-a559-74a79a422f27.png)
 
 # Link to UserList Pages site
-https://volodin32104.github.io/usersList/
+https://volodin32104.github.io/usersList/ # In order to use the site, you must register
+
