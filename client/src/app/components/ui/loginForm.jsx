@@ -6,6 +6,11 @@ import { useHistory } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { getAuthErrors, login } from "../../store/users";
 
+// interface IError {
+//     email: string;
+//     password: string;
+// }
+
 const LoginForm = () => {
     const [data, setData] = useState({
         email: "",
