@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://anshikchon:Volodin3210446@cluster0.zg92i4u.mongodb.net/?retryWrites=true&w=majority",
+  "accessSecret": "anshikchonusebacklist",
+  "refreshSecret": "refreshbackpasswordCode"
+}
